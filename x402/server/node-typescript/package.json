@@ -19,12 +19,6 @@
     "stripe": "^22.5.0",
     "viem": "^2.48.11"
   },
-  "pnpm": {
-    "onlyBuiltDependencies": [
-      "@biomejs/biome",
-      "esbuild"
-    ]
-  },
   "devDependencies": {
     "@biomejs/biome": "^2.4.7",
     "@types/node": "^25.6.0",

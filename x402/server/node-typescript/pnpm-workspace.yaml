@@ -2,4 +2,5 @@ packages:
   - .
 
 allowBuilds:
+  "@coinbase/x402": true
   esbuild: true
